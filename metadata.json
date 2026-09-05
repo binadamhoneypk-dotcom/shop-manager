@@ -1,0 +1,6 @@
+{
+  "name": "Shop Manager",
+  "description": "Multi-tenant offline-first shop management system with inventory, POS billing, zakat tracker, customer & supplier ledgers, staff payroll, and universal calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
